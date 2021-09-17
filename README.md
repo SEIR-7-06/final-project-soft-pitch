@@ -77,6 +77,6 @@ There are multiple broad goals you can choose from. You need to pick a **minimum
 
 * **Friday, September 17th, 2021 - "Soft Pitch" due! - Ready by Mid-Day Break** - Clear your idea by presenting your preliminary planning materials and app idea to the instructors!
 
-* **Monday, September 20th, 2021 - "Hard Pitch" due! - Ready in the Morning** - For your hard pitch, we'll have you put together a full detailed plan, including your project scope, full user stories, wireframes, ERD, and a feasability study if applicable.
+* [**Monday, September 20th, 2021 - "Hard Pitch" due! - Ready in the Morning**](https://github.com/SEIR-7-06/final-project#project-planning-hard-pitch-deliverables) - For your hard pitch, we'll have you put together a full detailed plan, including your project scope, full user stories, wireframes, ERD, and a feasability study if applicable.
 
 * **9:30am, Monday, September 27th, 2021** - Project Presentations!
