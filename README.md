@@ -19,13 +19,26 @@ Come up with **two to three project ideas** in writing, answering the following 
 2. Who is the user for your app and how will they use your application? Prepare at least a few stories!
 3. Are you incorporating any bonus technologies or APIs? If so, how do you plan on learning/implementing these techs?
 
-## Recommended Goals:
+## Goals
+
+###### What are my options?
+
+There are multiple broad goals you can choose from. You need to pick a **minimum** of one or more goals from this list:
+
+#### Recommended Goals:
 
 * **Develop a MERN stack application** to solidify your knowledge around the technologies learned in class. (MongoDB Express React Node).
 
 * **Develop a MEN stack application** to solidify your knowledge around the technologies learned in class. (MongoDB Express Node w/ EJS templates).
 
 * **Polished portfolio piece:** Showcase substantial work in an area of interest by creating a highly polished product that will illustrate your skills, interests, and will be an anchor for your portfolio.
+
+#### Alternative Goals:
+* **Learn a new tech:** Create an application in a language or framework you have a strong interest in learning. (Python, Ruby on Rails, TypeScript, Django, etc.)
+* **Develop an ambitious project:** This MVP for this project could serve as the basis for a larger project post-cohort
+  * **Discover or invent an idea**, preferably one with some group of users that would jump at the chance to really use your product.
+  * **Design a product *you* want to build**, and choose _appropriate technologies_ to build it.
+  * **Pitch your idea** to your classmates and instructors, and incorporate their feedback.
 
 ## Important Dates
 
